@@ -91,11 +91,9 @@ Este é um projeto educacional, e a integridade acadêmica é fundamental:
 
 ### Reportando Problemas
 
-Se você experimentar ou testemunhar comportamento inaceitável, ou tiver qualquer outra preocupação, por favor reporte ao professor através de:
+Se você experimentar ou testemunhar comportamento inaceitável, ou tiver qualquer outra preocupação, por favor reporte a coordenação através de:
 
-- E-mail: _(a ser fornecido pelo professor)_
 - Sistema oficial da instituição
-- Em pessoa durante office hours
 
 Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter confidencialidade em relação ao relator de um incidente.
 
